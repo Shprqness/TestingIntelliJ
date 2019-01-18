@@ -1,0 +1,13 @@
+name: Testing IntelliJ
+main: com.github.shprqness.Main
+description: CooL  KidZ
+author: Shprqness
+version: 6.9
+
+commands:
+  kick:
+    usage: /kick user
+  mute:
+    usage: /mute user
+  help:
+    usage: /help
